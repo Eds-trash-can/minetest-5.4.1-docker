@@ -9,10 +9,10 @@ uses **g++-9**
 
 ### Volumes:
 
-- /minetest/game/game - the game of the server (like minetest_game / devtest / mineclone2)
-- /minetest/worlds/world - the world
-- /config/config.yml - configuration
+- `/minetest/game/game` - the game of the server (like minetest_game / devtest / mineclone2)
+- `/minetest/worlds/world` - the world
+- `/config/config.yml` - configuration
 
 ### Ports:
 
-Server listens on 30000 inside docker.
+Server listens on `30000` inside docker.
